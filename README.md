@@ -1,5 +1,3 @@
-# PluginTemplate
+# com_star_citizen
 
-A simple plugin you can use as a starting point for your amazing creations!
-
-For more information checkout [the docs](https://streamcontroller.github.io/docs/latest/).
+Simple plugin for Star Citizen ship controls using StreamController.
